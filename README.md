@@ -27,4 +27,3 @@ A full-stack enquiry management system built with **ASP.NET Core Web API** and *
 - Model binding and entity relationships with **Entity Framework Core**.
 - Connecting Angular forms to backend services using **HTTPClient**.
 - Routing, services, and reactive forms in **Angular 19**.
-- Structuring a full-stack project with Git and `.gitignore`.
