@@ -1,0 +1,47 @@
+# ===============================
+# Backend: .NET (.NET Core/5/6+)
+# ===============================
+/Enquiry.Api/Enquiry.Api/bin/
+/Enquiry.Api/Enquiry.Api/obj/
+/Enquiry.Api/Enquiry.Api/*.user
+/Enquiry.Api/Enquiry.Api/*.suo
+/Enquiry.Api/Enquiry.Api/.vs/
+*.dbmdl
+*.log
+
+# ===============================
+# Frontend: Angular (Node/NPM)
+# ===============================
+/EnquiryApp_angular19/node_modules/
+/EnquiryApp_angular19/dist/
+/EnquiryApp_angular19/tmp/
+/EnquiryApp_angular19/out-tsc/
+/EnquiryApp_angular19/bazel-out/
+/EnquiryApp_angular19/.angular/cache
+/EnquiryApp_angular19/coverage
+/EnquiryApp_angular19/.sass-cache/
+/EnquiryApp_angular19/connect.lock
+/EnquiryApp_angular19/libpeerconnection.log
+/EnquiryApp_angular19/testem.log
+/EnquiryApp_angular19/typings
+/EnquiryApp_angular19/npm-debug.log
+/EnquiryApp_angular19/yarn-error.log
+
+# ===============================
+# Common IDE/editor files
+# ===============================
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln.docstates
+*.user
+*.userosscache
+*.sln
+
+# ===============================
+# OS-generated files
+# ===============================
+.DS_Store
+Thumbs.db
